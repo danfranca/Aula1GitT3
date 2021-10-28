@@ -1,7 +1,11 @@
 git codigo
+gits
+ssss
+
 \\ ls 	*lista os arquivos
 \\ ls -a	*lista arquivos ocultos
-\\ cd	*muda de pasta
+\\ cd	*muda de pas
+sta
 \\ mkdir	*cria pasta
 \\ touch	*cria um arquivo
 \\ git init	*cria um repositorio
