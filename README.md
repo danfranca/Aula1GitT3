@@ -2,9 +2,7 @@ git codigo
 
 \\ ls 	*lista os arquivos
 
-\e[1mbold\e[0m
-
-\\ ls -a	*lista arquivos ocultos
+\\ ls -a	lista arquivos ocultos
 
 \\ cd	*muda de pasta
 
