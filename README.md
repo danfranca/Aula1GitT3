@@ -1,6 +1,8 @@
 git codigo
 
-\\ ls 	\e[1mbold\e[0m \*lista os arquivos
+\\ ls 	*lista os arquivos
+
+\e[1mbold\e[0m
 
 \\ ls -a	*lista arquivos ocultos
 
