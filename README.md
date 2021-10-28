@@ -1,6 +1,6 @@
 git codigo
 
-\\ ls 	*lista os arquivos
+\\ ls 	*lista os arquivos*
 
 \\ ls -a	*lista arquivos ocultos
 
@@ -34,4 +34,4 @@ git codigo
 
 \\ ssh-keygen  *configurar chave para github
 
-\\ * teste
+
