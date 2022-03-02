@@ -34,4 +34,8 @@ git codigo
 
 \\ ssh-keygen  *configurar chave para github
 
+\\ git checkout -b "Nova_branch" *sair da branch atual (checkout) e criar outra
 
+\\ git checkout (nome da branch)  *para alterar branch
+
+\\ git merge (nome da nova branch) *juntar branch
